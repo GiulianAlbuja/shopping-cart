@@ -1,0 +1,6 @@
+D:\darmy\Documents\Proyectos\ShoppingCart\ShoppingCart\ShoppingCartEntity\bin\Debug\ShoppingCartEntity.dll
+D:\darmy\Documents\Proyectos\ShoppingCart\ShoppingCart\ShoppingCartEntity\bin\Debug\ShoppingCartEntity.pdb
+D:\darmy\Documents\Proyectos\ShoppingCart\ShoppingCart\ShoppingCartEntity\obj\Debug\ShoppingCartEntity.csproj.AssemblyReference.cache
+D:\darmy\Documents\Proyectos\ShoppingCart\ShoppingCart\ShoppingCartEntity\obj\Debug\ShoppingCartEntity.csproj.CoreCompileInputs.cache
+D:\darmy\Documents\Proyectos\ShoppingCart\ShoppingCart\ShoppingCartEntity\obj\Debug\ShoppingCartEntity.dll
+D:\darmy\Documents\Proyectos\ShoppingCart\ShoppingCart\ShoppingCartEntity\obj\Debug\ShoppingCartEntity.pdb
